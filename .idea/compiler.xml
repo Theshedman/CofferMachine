@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Account_and_its_owner.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Constructor_definition.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Cookie.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Creating_news.main" target="11" />
+      <module name="Coffee_Machine.Topics-Constructor-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Calculating_factorials.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Division.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Greatest_common_divisor.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Raise_to_the_power.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-The_elements_of_a_method.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-The_sign_of_a_number.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Declaring_a_method-Vowel_or_not.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Currencies.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Days_of_week.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Hidden_enumeration.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Reasons_to_use_enum.main" target="11" />
+      <module name="Coffee_Machine.Topics-Enums_in_Java-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Complex_numbers.main" target="11" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Patient_needs_a_doctor.main" target="11" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Simulating_a_clock.main" target="11" />
+      <module name="Coffee_Machine.Topics-Instance_methods-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Accessing_fields.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Army.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Change_identities.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Preparing_full_name.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Objects-What_is_my_age_.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Accessing_static_members.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Detail_manufacturing.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Static_members-Too_many_cats.main" target="11" />
+      <module name="Coffee_Machine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
